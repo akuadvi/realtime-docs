@@ -1,7 +1,7 @@
 # 📄 Realtime Docs  
 
 A **Google Docs–like collaborative editing platform** built with **FastAPI, PostgreSQL, Redis, and Kafka**.  
-Supports **real-time collaboration**, **document sharing**, and **audit logging** — all following industry best practices with Dockerized setup and CI/CD.  
+Supports **real-time collaboration**, **document sharing**, and **audit logging** : All following industry best practices with Dockerized setup and CI/CD.  
 
 ---
 
