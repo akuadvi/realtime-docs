@@ -9,10 +9,10 @@ Supports **real-time collaboration**, **document sharing**, and **audit logging*
 
 - 🔐 **Authentication** – Secure signup/login with JWT & bcrypt password hashing  
 - 📄 **Document CRUD** – Create, read, update, delete documents  
-- 🤝 **Collaboration** – Share docs with collaborators, role-based permissions  
+- 🤝 **Collaboration** – Share docs with collaborators, role based permissions  
 - ⚡ **Real-time Editing** – WebSockets + Redis Pub/Sub for live updates  
-- 📡 **Event Streaming** – Kafka-based audit log for all edits  
-- 🔍 **Search** – Full-text search with PostgreSQL (Elasticsearch-ready)  
+- 📡 **Event Streaming** – Kafka based audit log for all edits  
+- 🔍 **Search** – Full-text search with PostgreSQL  
 - 🧪 **Testing** – Unit + integration tests with Pytest  
 - 📈 **Monitoring** – Prometheus + Grafana dashboards for metrics  
 - 🐳 **Deployment** – Docker & Docker Compose for local dev and staging  
